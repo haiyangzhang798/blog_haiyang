@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "www.haiyangzhang.com/"
+baseurl = "www.haiyangzhang-lab.com/"
 relativeURLs = true
 # Title of your site
 title = "MYCOLab"
@@ -59,12 +59,12 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Hawkesbury Institute for the Environment", url = "https://www.westernsydney.edu.au/hie" } ]
+  organizations = [ { name = "Hebei University", url = "https://smkxxy.hbu.cn/info/1062/2318.htm" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "haiyang_eerguna.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zhanghaiyang798@gmail.com"
-  address = "Building L9 G29, Hawkesbury Institute Richmond, Westernsydney Uni, 2753, NSW"
+  address = "Wusi East Road 180, Baoding, Hebei University"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
